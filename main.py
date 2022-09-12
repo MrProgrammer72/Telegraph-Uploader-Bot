@@ -242,7 +242,7 @@ async def telegraph_upload(bot, update):
                     InlineKeyboardButton(text="ᴏᴘᴇɴ ʟɪɴᴋ 🇮🇳", url=f"https://telegra.ph{response[0]}"),
                     InlineKeyboardButton(text="ꜱʜᴀʀᴇ ʟɪɴᴋ 🇮🇳", url=f"https://telegram.me/share/url?url=https://telegra.ph{response[0]}")
                 ],
-  
+                [
                     InlineKeyboardButton(text="⚙ ᴊᴏɪɴ ᴜᴘᴅᴀᴛᴇꜱ ɢʀᴏᴜᴘ ⚙", url="https://telegram.me/ADVENTURE_FAMILYS")
                 ],
                 [
