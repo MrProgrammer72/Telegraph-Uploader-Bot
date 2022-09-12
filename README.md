@@ -1,4 +1,27 @@
-# Telegraph-Uploader-Bot-V2
+<h2 align="center">  
+
+   ──「ᴛᴇʟᴇɢʀᴀᴘʜ-ᴜᴘʟᴏᴀᴅᴇʀ-ʙᴏᴛ」──  
+
+  </h2>  
+
+    
+
+ <p align="center">  
+
+   <img src="https://te.legra.ph/file/e43143eab344277f7e74a.jpg">  
+
+ </p> 
+
+  
+
+ <h2 align="center"> 
+
+  An advanced simple small media or file to telegra.ph link uploader bot.
+ </h2> 
+
+ </br> 
+
+ 
 
 An advanced simple small media or file to telegra.ph link uploader bot.
 
@@ -38,7 +61,7 @@ python3 main.py
 
 ---
 
-## Variables
+## ᴠᴀʀɪᴀʙʟᴇ
 
 - `API_HASH` Your API Hash from my.telegram.org
 - `API_ID` Your API ID from my.telegram.org
