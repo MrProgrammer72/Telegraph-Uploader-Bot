@@ -15,13 +15,12 @@
   
 
  <h2 align="center"> 
-
-  An advanced simple small media or file to telegra.ph link uploader bot.
+ᴀɴ ᴀᴅᴠᴀɴᴄᴇᴅ ꜱɪᴍᴘʟᴇ ꜱᴍᴀʟʟ ᴍᴇᴅɪᴀ ᴏʀ ꜰɪʟᴇ ᴛᴏ ᴛᴇʟᴇɢʀᴀ.ᴘʜ ʟɪɴᴋ ᴜᴘʟᴏᴀᴅᴇʀ ʙᴏᴛ.
  </h2> 
 
  </br> 
 
-<details><summary>Deploy To Heroku</summary>
+<details><summary>ᴅᴇᴘʟᴏʏ ᴛᴏ ʜᴇʀᴏᴋᴜ 🚀</summary>
 <p>
 <br>
 <a href="https://heroku.com/deploy?template=https://github.com/MrProgrammer72/Telegraph-Uploader-Bot">
@@ -30,7 +29,7 @@
 </p>
 </details>
 
-## ᴠᴀʀɪᴀʙʟᴇ
+## ᴠᴀʀɪᴀʙʟᴇ ✨
 
 - `API_HASH` Your API Hash from my.telegram.org
 - `API_ID` Your API ID from my.telegram.org
