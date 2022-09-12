@@ -15,7 +15,7 @@ License -> https://github.com/FayasNoushad/Telegraph-Uploader-Bot-V2/blob/main/L
 <details><summary>Deploy To Heroku</summary>
 <p>
 <br>
-<a href="https://heroku.com/deploy?template=https://github.com/MRK-YT/Telegraph-Uploader-Bot-V2">
+<a href="https://heroku.com/deploy?template=https://github.com/MrProgrammer72/Telegraph-Uploader-Bot">
   <img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy">
 </a>
 </p>
