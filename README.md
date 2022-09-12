@@ -12,11 +12,8 @@
 
  </p> 
 
-  
-
- <h2 align="center"> 
-ᴀɴ ᴀᴅᴠᴀɴᴄᴇᴅ ꜱɪᴍᴘʟᴇ ꜱᴍᴀʟʟ ᴍᴇᴅɪᴀ ᴏʀ ꜰɪʟᴇ ᴛᴏ ᴛᴇʟᴇɢʀᴀ.ᴘʜ ʟɪɴᴋ ᴜᴘʟᴏᴀᴅᴇʀ ʙᴏᴛ.
- </h2> 
+## ᴀɴ ᴀᴅᴠᴀɴᴄᴇᴅ ꜱɪᴍᴘʟᴇ ꜱᴍᴀʟʟ ᴍᴇᴅɪᴀ ᴏʀ ꜰɪʟᴇ ᴛᴏ ᴛᴇʟᴇɢʀᴀ.ᴘʜ ʟɪɴᴋ ᴜᴘʟᴏᴀᴅᴇʀ ʙᴏᴛ.
+ 
 
  </br> 
 
@@ -31,16 +28,18 @@
 
 ## ᴠᴀʀɪᴀʙʟᴇ ✨
 
-- `API_HASH` Your API Hash from my.telegram.org
-- `API_ID` Your API ID from my.telegram.org
-- `BOT_TOKEN` Your bot token from @BotFather
-- `BOT_OWNER` Bot owner ID
-- `DATABASE_URL` MongoDB URL
+- `ᴀᴘɪ_ʜᴀꜱʜ` ʏᴏᴜʀ ᴀᴘɪ ʜᴀꜱʜ ꜰʀᴏᴍ ᴍʏ.ᴛᴇʟᴇɢʀᴀᴍ.ᴏʀɢ
+- `ᴀᴘɪ_ɪᴅ` ʏᴏᴜʀ ᴀᴘɪ ɪᴅ ꜰʀᴏᴍ ᴍʏ.ᴛᴇʟᴇɢʀᴀᴍ.ᴏʀɢ
+- `ʙᴏᴛ_ᴛᴏᴋᴇɴ` ʏᴏᴜʀ ʙᴏᴛ ᴛᴏᴋᴇɴ ꜰʀᴏᴍ @ʙᴏᴛꜰᴀᴛʜᴇʀ
+- `ʙᴏᴛ_ᴏᴡɴᴇʀ` ʙᴏᴛ ᴏᴡɴᴇʀ ɪᴅ
+- `ᴅᴀᴛᴀʙᴀꜱᴇ_ᴜʀʟ` ᴍᴏɴɢᴏᴅʙ ᴜʀʟ
 
 ---
 
-## Credits
+---
 
-- [programmer](https://github.com/MrProgrammer72)
-- [Pyrogram](https://github.com/pyrogram/pyrogram)
-- [Telegraph-Uploader-Bot](https://github.com/MrProgrammer72/Telegraph-Uploader-Bot)
+## ᴄʀᴇᴅɪᴛ 💖
+
+- [ᴘʀᴏɢʀᴀᴍᴍᴇʀ](https://github.com/MrProgrammer72)
+- [ᴘʏʀᴏɢʀᴀᴍ](https://github.com/pyrogram/pyrogram)
+- [ᴛᴇʟᴇɢʀᴀᴘʜ-ᴜᴘʟᴏᴀᴅᴇʀ-ʙᴏᴛ](https://github.com/MrProgrammer72/Telegraph-Uploader-Bot)
