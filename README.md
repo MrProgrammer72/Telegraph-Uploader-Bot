@@ -21,20 +21,6 @@
 
  </br> 
 
- 
-
-An advanced simple small media or file to telegra.ph link uploader bot.
-
----
-
-```
-Made with Python3
-(C) @FayasNoushad
-Copyright permission under MIT License
-License -> https://github.com/FayasNoushad/Telegraph-Uploader-Bot-V2/blob/main/LICENSE
-```
-
-
 <details><summary>Deploy To Heroku</summary>
 <p>
 <br>
@@ -43,23 +29,6 @@ License -> https://github.com/FayasNoushad/Telegraph-Uploader-Bot-V2/blob/main/L
 </a>
 </p>
 </details>
-
----
-
-# [Deply Video](https://youtu.be/c-GfUfriP50)
-
-
-## Deploy
-
-```sh
-git clone https://github.com/FayasNoushad/Telegraph-Uploader-Bot-V2
-cd Telegraph-Uploader-Bot-V2
-pip3 install -r requirements.txt
-# <Create Variables appropriately>
-python3 main.py
-```
-
----
 
 ## ᴠᴀʀɪᴀʙʟᴇ
 
@@ -73,6 +42,6 @@ python3 main.py
 
 ## Credits
 
-- [Fayas Noushad](https://github.com/FayasNoushad)
+- [programmer](https://github.com/MrProgrammer72)
 - [Pyrogram](https://github.com/pyrogram/pyrogram)
-- [Telegraph-Uploader-Bot](https://github.com/FayasNoushad/Telegraph-Uploader-Bot)
+- [Telegraph-Uploader-Bot](https://github.com/MrProgrammer72/Telegraph-Uploader-Bot)
