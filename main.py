@@ -35,12 +35,12 @@ Bot = Client(
     api_hash = os.environ["API_HASH"],
 )
 
-START_TEXT = """**Hello {} 😌
-I am small media or file to telegra.ph link uploader bot.**
+START_TEXT = """**ʜᴇʟʟᴏ {} 😇
+ɪ ᴀᴍ ꜱᴍᴀʟʟ ᴍᴇᴅɪᴀ ᴏʀ ꜰɪʟᴇ ᴛᴏ ᴛᴇʟᴇɢʀᴀ.ᴘʜ ʟɪɴᴋ ᴜᴘʟᴏᴀᴅᴇʀ ʙᴏᴛ.**
 
->> `I can convert under 5MB photo or video to telegraph link.`
+>> `ɪ ᴄᴀɴ ᴄᴏɴᴠᴇʀᴛ ᴜɴᴅᴇʀ 5ᴍʙ ᴘʜᴏᴛᴏ ᴏʀ ᴠɪᴅᴇᴏ ᴛᴏ ᴛᴇʟᴇɢʀᴀᴘʜ ʟɪɴᴋ.`
 
-Made by @Mo_Tech_YT"""
+ᴍᴀᴅᴇ ʙʏ 🖤 [ᴇxᴘᴏʀᴛ_ɢᴀʙʙᴀʀ](https://telegram.me/export_gabbar)"""
 
 HELP_TEXT = """**Hey, Follow these steps:**
 
