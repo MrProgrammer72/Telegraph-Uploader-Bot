@@ -26,7 +26,7 @@ from database import Database
 UPDATE_CHANNEL = os.environ.get("UPDATE_CHANNEL", "")
 BOT_OWNER = int(os.environ["BOT_OWNER"])
 DATABASE_URL = os.environ["DATABASE_URL"]
-db = Database(DATABASE_URL, "FnTelegraphBot")
+db = Database(DATABASE_URL, "MpTelegraphBot")
 
 Bot = Client(
     "Telegraph Uploader Bot",
@@ -206,7 +206,7 @@ async def telegraph_upload(bot, update):
             print(error)
             await update.reply_text(text="ꜱᴏᴍᴇᴛʜɪɴɢ ᴡʀᴏɴɢ. ᴄᴏɴᴛᴀᴄᴛ <a href='https://telegram.me/export_gabbar'>ᴅᴇᴠᴇʟᴏᴘᴇʀ</a>.", disable_web_page_preview=True)
             return
-    medianame = "./DOWNLOADS/" + "FayasNoushad/FnTelegraphBot"
+    medianame = "./DOWNLOADS/" + "MrProgrammer72/MpTelegraphBot"
     text = await update.reply_text(
         text="<code>ᴅᴏᴡɴʟᴏᴀᴅɪɴɢ ᴛᴏ ᴍʏ ꜱᴇʀᴠᴇʀ ...</code>",
         disable_web_page_preview=True
