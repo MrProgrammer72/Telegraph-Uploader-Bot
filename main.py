@@ -42,48 +42,48 @@ START_TEXT = """**ʜᴇʟʟᴏ {} 😇
 
 ᴍᴀᴅᴇ ʙʏ 🖤 [ᴇxᴘᴏʀᴛ_ɢᴀʙʙᴀʀ](https://telegram.me/export_gabbar)"""
 
-HELP_TEXT = """**Hey, Follow these steps:**
+HELP_TEXT = """**ʜᴇʏ, ꜰᴏʟʟᴏᴡ ᴛʜᴇꜱᴇ ꜱᴛᴇᴘꜱ:**
 
-➠ Just give me a media under 5MB
-➠ Then I will download it
-➠ I will then upload it to the telegra.ph link
+➠ ᴊᴜꜱᴛ ɢɪᴠᴇ ᴍᴇ ᴀ ᴍᴇᴅɪᴀ ᴜɴᴅᴇʀ 5ᴍʙ
+➠ ᴛʜᴇɴ ɪ ᴡɪʟʟ ᴅᴏᴡɴʟᴏᴀᴅ ɪᴛ
+➠ ɪ ᴡɪʟʟ ᴛʜᴇɴ ᴜᴘʟᴏᴀᴅ ɪᴛ ᴛᴏ ᴛʜᴇ ᴛᴇʟᴇɢʀᴀ.ᴘʜ ʟɪɴᴋ
 
-**Available Commands**
+**ᴀᴠᴀɪʟᴀʙʟᴇ ᴄᴏᴍᴍᴀɴᴅꜱ**
 
-/start - Checking Bot Online
-/help - For more help
-/about - For more about me
-/status - For bot updates
+/start - ᴄʜᴇᴄᴋɪɴɢ ʙᴏᴛ ᴏɴʟɪɴᴇ 
+/help - ꜰᴏʀ ᴍᴏʀᴇ ʜᴇʟᴘ
+/about - ꜰᴏʀ ᴍᴏʀᴇ ᴀʙᴏᴜᴛ ᴍᴇ
+/Status - ꜰᴏʀ ʙᴏᴛ ᴜᴘᴅᴀᴛᴇꜱ
 
-Made by @Mo_Tech_YT"""
+ᴍᴀᴅᴇ ʙʏ 🤍 [ᴇxᴘᴏʀᴛ_ɢᴀʙʙᴀʀ](https://telegram.me/export_gabbar)"""
 
-ABOUT_TEXT = """--**About Me**-- 😎
+ABOUT_TEXT = """--**ᴀʙᴏᴜᴛ ᴍᴇ**--😁
 
-🤖 **Name :** [Telegraph Uploader](https://telegram.me/{})
+🤖 **ɴᴀᴍᴇ :** [ᴛᴇʟᴇɢʀᴀᴘʜ ᴜᴘʟᴏᴀᴅᴇʀ](https://telegram.me/{})
 
-👨‍💻 **Developer :** [Fayas](https://github.com/FayasNoushad)
+👨‍💻 **ᴅᴇᴠᴇʟᴏᴘᴇʀ :** [ᴍʀ.ᴘʀᴏɢᴀᴍᴍᴇʀ](https://github.com/MrProgrammer72)
 
-👨‍💻 **Editor :** [Muhammed](https://github.com/Mrk_yt)
+🇮🇳 **ᴇᴅɪᴛᴏʀ :** [ᴇxᴘᴏʀᴛ ɢᴀʙʙᴀᴛ](https://t.me/export_gabbar)
 
-📢 **Channel :** [Mo Tech Channel](https://telegram.me/Mo_Tech_YT)
+📢 **ᴄʜᴀɴɴᴀʟ :** [ꜱᴜᴘᴘᴏʀᴛ ᴄʜᴀɴɴᴇʟ](https://telegram.me/myworldGJ516)
 
-👥 **Group :** [Mo Tech Group](https://telegram.me/Mo_Tech_Group)
+👥 **ɢʀᴏᴜᴘ :** [ꜱᴜᴘᴘᴏʀᴛ ɢʀᴏᴜᴘ](https://telegram.me/ADVENTURE_FAMILY)
 
-🌐 **Source :** [👉 Click here](https://github.com/MRK-YT/Telegraph-Uploader-Bot-V2)
+🌐 **ꜱᴏᴜʀᴄᴇ :** [ᴄʟɪᴄᴋ ʜᴇʀᴇ](https://telegra.ph/file/9b0455dae14d5639f936d.mp4)
 
-📝 **Language :** [Python3](https://python.org)
+📝 **ʟᴀɴɢᴜᴀɢᴇ :** [ᴘʏᴛʜᴏɴ3](https://python.org)
 
-🧰 **Framework :** [Pyrogram](https://pyrogram.org)
+🧰 **ꜰʀᴀᴍᴇᴡᴏʀᴋ :** [ᴘʏʀᴏɢʀᴀᴍ](https://pyrogram.org)
 
-📡 **Server :** [Heroku](https://heroku.com)"""
+📡 **ꜱᴇʀᴠᴇʀ :** [ʜᴇʀᴏᴋᴜ](https://heroku.com)"""
 
-FORCE_SUBSCRIBE_TEXT = "<code>Sorry Dear You Must Join My Updates Channel for using me 😌😉....</code>"
+FORCE_SUBSCRIBE_TEXT = "<code>ꜱᴏʀʀʏ ᴅᴇᴀʀ ʏᴏᴜ ᴍᴜꜱᴛ ᴊᴏɪɴ ᴍʏ ᴜᴘᴅᴀᴛᴇꜱ ᴄʜᴀɴɴᴇʟ ꜰᴏʀ ᴜꜱɪɴɢ ᴍᴇ ✨....</code>"
 
 START_BUTTONS = InlineKeyboardMarkup(
         [[
         InlineKeyboardButton('🖥️ Deploy Video 🖥️', url='https://youtu.be/c-GfUfriP50'),
         ],[
-        InlineKeyboardButton('⚙ Help', callback_data='help'),
+        InlineKeyboardButton('Help ⚙', callback_data='help'),
         InlineKeyboardButton('About 🔰', callback_data='about'),
         InlineKeyboardButton('Close ✖️', callback_data='close')
         ]]
