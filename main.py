@@ -63,7 +63,7 @@ ABOUT_TEXT = """--**ᴀʙᴏᴜᴛ ᴍᴇ**--😁
 
 👨‍💻 **ᴅᴇᴠᴇʟᴏᴘᴇʀ :** [ᴍʀ.ᴘʀᴏɢᴀᴍᴍᴇʀ](https://github.com/MrProgrammer72)
 
-🇮🇳 **ᴇᴅɪᴛᴏʀ :** [ᴇxᴘᴏʀᴛ ɢᴀʙʙᴀᴛ](https://t.me/export_gabbar)
+🇮🇳 **ᴇᴅɪᴛᴏʀ :** [ᴇxᴘᴏʀᴛ ɢᴀʙʙᴀʀ](https://t.me/export_gabbar)
 
 📢 **ᴄʜᴀɴɴᴀʟ :** [ꜱᴜᴘᴘᴏʀᴛ ᴄʜᴀɴɴᴇʟ](https://telegram.me/myworldGJ516)
 
@@ -81,7 +81,7 @@ FORCE_SUBSCRIBE_TEXT = "<code>ꜱᴏʀʀʏ ᴅᴇᴀʀ ʏᴏᴜ ᴍᴜꜱᴛ ᴊ
 
 START_BUTTONS = InlineKeyboardMarkup(
         [[
-        InlineKeyboardButton('🎧 ᴍᴜꜱɪᴄ ʙᴏᴛ 🎧', url='https://t.me/GJ516_VCPALYER_BOT'),
+        InlineKeyboardButton('⚡ ᴍᴜꜱɪᴄ ʙᴏᴛ ⚡', url='https://t.me/@GJ516_VCPLAYER_bot'),
         ],[
         InlineKeyboardButton('ʜᴇʟᴘ ⚙', callback_data='help'),
         InlineKeyboardButton('ᴀʙᴏᴜᴛ 🔰', callback_data='about'),
@@ -91,7 +91,7 @@ START_BUTTONS = InlineKeyboardMarkup(
 
 HELP_BUTTONS = InlineKeyboardMarkup(
         [[
-        InlineKeyboardButton('🎧 ᴍᴜꜱɪᴄ ʙᴏᴛ 🎧', url='https://t.me/GJ516_VCPALYER_BOT'),
+        InlineKeyboardButton('💖 ᴍᴜꜱɪᴄ ʙᴏᴛ 💖', url='https://t.me/GJ516_VCPLAYER_bot'),
         ],[
         InlineKeyboardButton('ʜᴏᴍᴇ 🏘', callback_data='home'),
         InlineKeyboardButton('ᴀʙᴏᴜᴛ 🔰', callback_data='about'),
@@ -101,7 +101,7 @@ HELP_BUTTONS = InlineKeyboardMarkup(
 
 ABOUT_BUTTONS = InlineKeyboardMarkup(
         [[
-        InlineKeyboardButton('🎧 ᴍᴜꜱɪᴄ ʙᴏᴛ 🎧', url='https://t.me/GJ516_VCPALYER_BOT'),
+        InlineKeyboardButton('🔥 ᴍᴜꜱɪᴄ ʙᴏᴛ 🔥', url='https://t.me/GJ516_VCPLAYER_bot'),
         ],[
         InlineKeyboardButton('ʜᴏᴍᴇ 🏘', callback_data='home'),
         InlineKeyboardButton('ʜᴇʟᴘ ⚙', callback_data='help'),
@@ -234,7 +234,7 @@ async def telegraph_upload(bot, update):
         print(error)
         return
     await text.edit_text(
-        text=f"<b>Link :-</b> <code>https://telegra.ph{response[0]}</code>\n\n<b>ᴊᴏɪɴ :-</b> @ADVENTURE_FAMILYS",
+        text=f"<b>Link :-</b> <code>https://telegra.ph{response[0]}</code>\n\n<b>ᴊᴏɪɴ 😇:-</b> @ADVENTURE_FAMILYS",
         disable_web_page_preview=True,
         reply_markup=InlineKeyboardMarkup(
             [
@@ -246,7 +246,7 @@ async def telegraph_upload(bot, update):
                     InlineKeyboardButton(text="⚙ ᴊᴏɪɴ ᴜᴘᴅᴀᴛᴇꜱ ɢʀᴏᴜᴘ ⚙", url="https://telegram.me/ADVENTURE_FAMILYS")
                 ],
                 [
-                    InlineKeyboardButton('🎧 ᴍᴜꜱɪᴄ ʙᴏᴛ 🎧', url='https://t.me/GJ516_VCPLAYER_BOT')
+                    InlineKeyboardButton('🤍 ᴍᴜꜱɪᴄ ʙᴏᴛ 🤍', url='https://t.me/GJ516_VCPLAYER_bot')
                 ]
             ]
         )
