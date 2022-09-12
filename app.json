@@ -1,0 +1,53 @@
+{
+    "name": "Telegraph Bot",
+    "description": "A Id Bot by @MRK_YT",
+    "keywords": [
+        "Telegram",
+        "Id",
+        "Bot"
+    ],
+    "website": "https://youtube.com/channel/UCmGBpXoM-OEm-FacOccVKgQ",
+    "repository": "https://github.com/MRK-YT/Telegraph-Uploader-Bot-V2",
+    "success_url": "https://youtube.com/channel/UCmGBpXoM-OEm-FacOccVKgQ",
+    "env": {
+        "API_ID": {
+            "description": "Your APP ID From https://youtu.be/5eEsvLAKVc0 or @MT_MyTelegramOrg_Bot",
+            "value": ""
+        },
+        "API_HASH": {
+            "description": "Your API Hash From https://youtu.be/5eEsvLAKVc0 or @MT_MyTelegramOrg_Bot",
+            "value": ""
+        },
+        "BOT_TOKEN": {
+            "description": "Your Bot Token From @BotFather",
+            "value": ""
+        },
+        "UPDATE_CHANNEL": {
+            "description": "Channel User Name Without @ Eg Mo_Tech_YT",
+            "value": "MT_Botz"
+        },
+        "BOT_OWNER": {
+            "description": "Owner Id From @MT_Id_Bot",
+            "value": ""
+        },
+        "DATABASE_URL": {
+            "description": "Database From https://youtu.be/gBLTsH-IXr0",
+            "value": ""
+        },
+        "BOT_NAME": {
+            "description": "Your Bot Name From Bot Father",
+            "value": ""
+        }
+    },
+    "buildpacks": [
+        {
+            "url": "heroku/python"
+        }
+    ],
+    "formation": {
+        "worker": {
+            "quantity": 1,
+            "size": "free"
+        }
+    }
+}
