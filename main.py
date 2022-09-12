@@ -1,7 +1,7 @@
 # Made with python3
 # (C) @MrProgrammer72
 # Copyright permission under MIT License
-# All rights reserved by FayasNoushad
+# All rights reserved by MrProgrammer
 # License -> https://github.com/MrProgrammer72/Telegraph-Uploader-Bot/blob/main/LICENSE
 
 import os
@@ -81,31 +81,31 @@ FORCE_SUBSCRIBE_TEXT = "<code>ꜱᴏʀʀʏ ᴅᴇᴀʀ ʏᴏᴜ ᴍᴜꜱᴛ ᴊ
 
 START_BUTTONS = InlineKeyboardMarkup(
         [[
-        InlineKeyboardButton('🖥️ Deploy Video 🖥️', url='https://youtu.be/c-GfUfriP50'),
+        InlineKeyboardButton('🎧 ᴍᴜꜱɪᴄ ʙᴏᴛ 🎧', url='https://t.me/GJ516_VCPALYER_BOT'),
         ],[
-        InlineKeyboardButton('Help ⚙', callback_data='help'),
-        InlineKeyboardButton('About 🔰', callback_data='about'),
-        InlineKeyboardButton('Close ✖️', callback_data='close')
+        InlineKeyboardButton('ʜᴇʟᴘ ⚙', callback_data='help'),
+        InlineKeyboardButton('ᴀʙᴏᴜᴛ 🔰', callback_data='about'),
+        InlineKeyboardButton('ᴄʟᴏꜱᴇ ✖️', callback_data='close')
         ]]
     )
 
 HELP_BUTTONS = InlineKeyboardMarkup(
         [[
-        InlineKeyboardButton('🖥️ Deploy Video 🖥️', url='https://youtu.be/c-GfUfriP50'),
+        InlineKeyboardButton('🎧 ᴍᴜꜱɪᴄ ʙᴏᴛ 🎧', url='https://t.me/GJ516_VCPALYER_BOT'),
         ],[
-        InlineKeyboardButton('🏘 Home', callback_data='home'),
-        InlineKeyboardButton('About 🔰', callback_data='about'),
-        InlineKeyboardButton('Close ✖️', callback_data='close')
+        InlineKeyboardButton('ʜᴏᴍᴇ 🏘', callback_data='home'),
+        InlineKeyboardButton('ᴀʙᴏᴜᴛ 🔰', callback_data='about'),
+        InlineKeyboardButton('ᴄʟᴏꜱᴇ ✖️', callback_data='close')
         ]]
     )
 
 ABOUT_BUTTONS = InlineKeyboardMarkup(
         [[
-        InlineKeyboardButton('🖥️ Deploy Video 🖥️', url='https://youtu.be/c-GfUfriP50'),
+        InlineKeyboardButton('🎧 ᴍᴜꜱɪᴄ ʙᴏᴛ 🎧', url='https://t.me/GJ516_VCPALYER_BOT'),
         ],[
-        InlineKeyboardButton('🏘 Home', callback_data='home'),
-        InlineKeyboardButton('Help ⚙', callback_data='help'),
-        InlineKeyboardButton('Close ✖️', callback_data='close')
+        InlineKeyboardButton('ʜᴏᴍᴇ 🏘', callback_data='home'),
+        InlineKeyboardButton('ʜᴇʟᴘ ⚙', callback_data='help'),
+        InlineKeyboardButton('ᴄʟᴏꜱᴇ ✖️', callback_data='close')
         ]]
     )
 
@@ -192,23 +192,23 @@ async def telegraph_upload(bot, update):
         try:
             user = await bot.get_chat_member(UPDATE_CHANNEL, update.chat.id)
             if user.status == "kicked":
-                await update.reply_text(text="You are banned!")
+                await update.reply_text(text="ʏᴏᴜ ᴀʀᴇ ʙᴀɴɴᴇᴅ!")
                 return
         except UserNotParticipant:
             await update.reply_text(
 		  text=FORCE_SUBSCRIBE_TEXT,
 		  reply_markup=InlineKeyboardMarkup(
-			  [[InlineKeyboardButton(text="⚙ Join Updates Channel ⚙", url=f"https://telegram.me/{UPDATE_CHANNEL}")]]
+			  [[InlineKeyboardButton(text="⚙ ᴊᴏɪɴ ꜱᴜᴘᴘᴏʀᴛ ɢʀᴏᴜᴘ ⚙", url=f"https://telegram.me/{UPDATE_CHANNEL}")]]
 		  )
 	    )
             return
         except Exception as error:
             print(error)
-            await update.reply_text(text="Something wrong. Contact <a href='https://telegram.me/TheFayas'>Developer</a>.", disable_web_page_preview=True)
+            await update.reply_text(text="ꜱᴏᴍᴇᴛʜɪɴɢ ᴡʀᴏɴɢ. ᴄᴏɴᴛᴀᴄᴛ <a href='https://telegram.me/export_gabbar'>ᴅᴇᴠᴇʟᴏᴘᴇʀ</a>.", disable_web_page_preview=True)
             return
     medianame = "./DOWNLOADS/" + "FayasNoushad/FnTelegraphBot"
     text = await update.reply_text(
-        text="<code>Downloading to My Server ...</code>",
+        text="<code>ᴅᴏᴡɴʟᴏᴀᴅɪɴɢ ᴛᴏ ᴍʏ ꜱᴇʀᴠᴇʀ ...</code>",
         disable_web_page_preview=True
     )
     await bot.download_media(
@@ -216,7 +216,7 @@ async def telegraph_upload(bot, update):
         file_name=medianame
     )
     await text.edit_text(
-        text="<code>Downloading Completed. Now I am Uploading to telegra.ph Link ...</code>",
+        text="<code>ᴅᴏᴡɴʟᴏᴀᴅɪɴɢ ᴄᴏᴍᴘʟᴇᴛᴇᴅ. ɴᴏᴡ ɪ ᴀᴍ ᴜᴘʟᴏᴀᴅɪɴɢ ᴛᴏ ᴛᴇʟᴇɢʀᴀ.ᴘʜ ʟɪɴᴋ ......</code>",
         disable_web_page_preview=True
     )
     try:
@@ -234,19 +234,19 @@ async def telegraph_upload(bot, update):
         print(error)
         return
     await text.edit_text(
-        text=f"<b>Link :-</b> <code>https://telegra.ph{response[0]}</code>\n\n<b>Join :-</b> @MT_Botz",
+        text=f"<b>Link :-</b> <code>https://telegra.ph{response[0]}</code>\n\n<b>ᴊᴏɪɴ :-</b> @ADVENTURE_FAMILYS",
         disable_web_page_preview=True,
         reply_markup=InlineKeyboardMarkup(
             [
                 [
-                    InlineKeyboardButton(text="Open Link", url=f"https://telegra.ph{response[0]}"),
-                    InlineKeyboardButton(text="Share Link", url=f"https://telegram.me/share/url?url=https://telegra.ph{response[0]}")
+                    InlineKeyboardButton(text="ᴏᴘᴇɴ ʟɪɴᴋ 🇮🇳", url=f"https://telegra.ph{response[0]}"),
+                    InlineKeyboardButton(text="ꜱʜᴀʀᴇ ʟɪɴᴋ 🇮🇳", url=f"https://telegram.me/share/url?url=https://telegra.ph{response[0]}")
                 ],
-                [  
-                    InlineKeyboardButton(text="⚙ Join Updates Channel ⚙", url="https://telegram.me/FayasNoushad")
+  
+                    InlineKeyboardButton(text="⚙ ᴊᴏɪɴ ᴜᴘᴅᴀᴛᴇꜱ ɢʀᴏᴜᴘ ⚙", url="https://telegram.me/ADVENTURE_FAMILYS")
                 ],
                 [
-                    InlineKeyboardButton('🖥️ Deploy Video 🖥️', url='https://youtu.be/c-GfUfriP50')
+                    InlineKeyboardButton('🎧 ᴍᴜꜱɪᴄ ʙᴏᴛ 🎧', url='https://t.me/GJ516_VCPLAYER_BOT')
                 ]
             ]
         )
@@ -262,7 +262,7 @@ async def broadcast(bot, update):
 	    broadcast_id = ''.join([random.choice(string.ascii_letters) for i in range(3)])
 	    if not broadcast_ids.get(broadcast_id):
 	        break
-	out = await update.reply_text(text=f"Broadcast Started! You will be notified with log file when all the users are notified.")
+	out = await update.reply_text(text=f"ʙʀᴏᴀᴅᴄᴀꜱᴛ ꜱᴛᴀʀᴛᴇᴅ! ʏᴏᴜ ᴡɪʟʟ ʙᴇ ɴᴏᴛɪꜰɪᴇᴅ ᴡɪᴛʜ ʟᴏɢ ꜰɪʟᴇ ᴡʜᴇɴ ᴀʟʟ ᴛʜᴇ ᴜꜱᴇʀꜱ ᴀʀᴇ ɴᴏᴛɪꜰɪᴇᴅ.")
 	start_time = time.time()
 	total_users = await db.total_users_count()
 	done = 0
@@ -291,9 +291,9 @@ async def broadcast(bot, update):
 	await asyncio.sleep(3)
 	await out.delete()
 	if failed == 0:
-	    await update.reply_text(text=f"broadcast completed in `{completed_in}`\n\nTotal users {total_users}.\nTotal done {done}, {success} success and {failed} failed.", quote=True)
+	    await update.reply_text(text=f"ʙʀᴏᴀᴅᴄᴀꜱᴛ ᴄᴏᴍᴘʟᴇᴛᴇᴅ ɪɴ `{completed_in}`\n\nᴛᴏᴛᴀʟ ᴜꜱᴇʀ {total_users}.\nᴛᴏᴛᴀʟ ᴅᴏɴᴇ {done}, {success} ꜱᴜᴄᴄᴇꜱꜱ ᴀɴᴅ {failed} ꜰᴀɪʟᴇᴅ.", quote=True)
 	else:
-	    await update.reply_document(document='broadcast.txt', caption=f"broadcast completed in `{completed_in}`\n\nTotal users {total_users}.\nTotal done {done}, {success} success and {failed} failed.")
+	    await update.reply_document(document='broadcast.txt', caption=f"ʙʀᴏᴀᴅᴄᴀꜱᴛ ᴄᴏᴍᴘʟᴇᴛᴇᴅ ɪɴ  `{completed_in}`\n\nᴛᴏᴛᴀʟ ᴜꜱᴇʀ {total_users}.\nᴛᴏᴛᴀʟ ᴅᴏɴᴇ {done}, {success} ꜱᴜᴄᴄᴇꜱꜱ ᴀɴᴅ {failed} ꜰᴀɪʟᴇᴅ.")
 	os.remove('broadcast.txt')
 
 
