@@ -1,8 +1,8 @@
 # Made with python3
-# (C) @FayasNoushad
+# (C) @MrProgrammer72
 # Copyright permission under MIT License
 # All rights reserved by FayasNoushad
-# License -> https://github.com/FayasNoushad/Telegraph-Uploader-Bot-V2/blob/main/LICENSE
+# License -> https://github.com/MrProgrammer72/Telegraph-Uploader-Bot/blob/main/LICENSE
 
 import os
 import time
