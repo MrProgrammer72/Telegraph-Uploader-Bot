@@ -1,4 +1,4 @@
-<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
+ <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img  src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 <h2 align="center">  
 
    ──「ᴛᴇʟᴇɢʀᴀᴘʜ-ᴜᴘʟᴏᴀᴅᴇʀ-ʙᴏᴛ」──  
@@ -12,10 +12,10 @@
    <img src="https://te.legra.ph/file/e43143eab344277f7e74a.jpg">  
 
  </p> 
-<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
+ <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img  src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 ## ᴀɴ ᴀᴅᴠᴀɴᴄᴇᴅ ꜱɪᴍᴘʟᴇ ꜱᴍᴀʟʟ ᴍᴇᴅɪᴀ ᴏʀ ꜰɪʟᴇ ᴛᴏ ᴛᴇʟᴇɢʀᴀ.ᴘʜ ʟɪɴᴋ ᴜᴘʟᴏᴀᴅᴇʀ ʙᴏᴛ.
  
-<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
+ <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img  src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
  </br> 
 
 <details><summary>ᴅᴇᴘʟᴏʏ ᴛᴏ ʜᴇʀᴏᴋᴜ 🚀</summary>
@@ -40,4 +40,4 @@
 - [ᴘʀᴏɢʀᴀᴍᴍᴇʀ](https://github.com/MrProgrammer72)
 - [ᴘʏʀᴏɢʀᴀᴍ](https://github.com/pyrogram/pyrogram)
 - [ᴛᴇʟᴇɢʀᴀᴘʜ-ᴜᴘʟᴏᴀᴅᴇʀ-ʙᴏᴛ](https://github.com/MrProgrammer72/Telegraph-Uploader-Bot)
-<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
+ <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img  src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
