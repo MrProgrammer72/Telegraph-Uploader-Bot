@@ -118,11 +118,11 @@ async def send_msg(user_id, message):
 		await asyncio.sleep(e.x)
 		return send_msg(user_id, message)
 	except InputUserDeactivated:
-		return 400, f"{user_id} : deactivated\n"
+		return 400, f"{user_id} : ᴅᴇᴀᴄᴛɪᴠᴀᴛᴇᴅ\n"
 	except UserIsBlocked:
-		return 400, f"{user_id} : user is blocked\n"
+		return 400, f"{user_id} : ᴜꜱᴇʀ ɪꜱ ʙʟᴏᴄᴋᴇᴅ\n"
 	except PeerIdInvalid:
-		return 400, f"{user_id} : user id invalid\n"
+		return 400, f"{user_id} : ᴜꜱᴇʀ ɪᴅ ɪɴᴠᴀʟɪᴅ\n"
 	except Exception as e:
 		return 500, f"{user_id} : {traceback.format_exc()}\n"
 
@@ -224,7 +224,7 @@ async def telegraph_upload(bot, update):
     except Exception as error:
         print(error)
         await text.edit_text(
-            text=f"Error :- {error}",
+            text=f"ᴇʀʀᴏʀ :- {error}",
             disable_web_page_preview=True
         )
         return
@@ -300,8 +300,8 @@ async def broadcast(bot, update):
 @Bot.on_message(filters.private & filters.command("status"), group=5)
 async def status(bot, update):
     total_users = await db.total_users_count()
-    text = "**Bot Status**\n"
-    text += f"\n**Total Users:** `{total_users}`"
+    text = "**ʙᴏᴛ ꜱᴛᴀᴛᴜꜱ**\n"
+    text += f"\n**ᴛᴏᴛᴀʟ ᴜꜱᴇʀꜱ:** `{total_users}`"
     await update.reply_text(
         text=text,
         quote=True,
