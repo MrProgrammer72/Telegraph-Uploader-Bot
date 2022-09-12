@@ -81,7 +81,7 @@ FORCE_SUBSCRIBE_TEXT = "<code>ꜱᴏʀʀʏ ᴅᴇᴀʀ ʏᴏᴜ ᴍᴜꜱᴛ ᴊ
 
 START_BUTTONS = InlineKeyboardMarkup(
         [[
-        InlineKeyboardButton('⚡ ᴍᴜꜱɪᴄ ʙᴏᴛ ⚡', url='https://t.me/@GJ516_VCPLAYER_bot'),
+        InlineKeyboardButton('⚡ ᴍᴜꜱɪᴄ ʙᴏᴛ ⚡', url='https://t.me/GJ516_VCPLAYER_bot'),
         ],[
         InlineKeyboardButton('ʜᴇʟᴘ ⚙', callback_data='help'),
         InlineKeyboardButton('ᴀʙᴏᴜᴛ 🔰', callback_data='about'),
