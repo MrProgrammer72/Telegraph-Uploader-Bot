@@ -40,7 +40,7 @@ START_TEXT = """**ʜᴇʟʟᴏ {} 😇
 
 >> `ɪ ᴄᴀɴ ᴄᴏɴᴠᴇʀᴛ ᴜɴᴅᴇʀ 5ᴍʙ ᴘʜᴏᴛᴏ ᴏʀ ᴠɪᴅᴇᴏ ᴛᴏ ᴛᴇʟᴇɢʀᴀᴘʜ ʟɪɴᴋ.`
 
-||ᴍᴀᴅᴇ ʙʏ 🖤 [ᴇxᴘᴏʀᴛ_ɢᴀʙʙᴀʀ🥀](https://telegram.me/export_gabbar)||"""
+||ᴍᴀᴅᴇ 🖤 ʙʏ [ᴇxᴘᴏʀᴛ_ɢᴀʙʙᴀʀ🥀](https://telegram.me/export_gabbar)||"""
 
 HELP_TEXT = """**ʜᴇʏ, ꜰᴏʟʟᴏᴡ ᴛʜᴇꜱᴇ ꜱᴛᴇᴘꜱ:**
 
@@ -55,7 +55,7 @@ HELP_TEXT = """**ʜᴇʏ, ꜰᴏʟʟᴏᴡ ᴛʜᴇꜱᴇ ꜱᴛᴇᴘꜱ:**
 /about - ꜰᴏʀ ᴍᴏʀᴇ ᴀʙᴏᴜᴛ ᴍᴇ
 /Status - ꜰᴏʀ ʙᴏᴛ ᴜᴘᴅᴀᴛᴇꜱ
 
-||ᴍᴀᴅᴇ ʙʏ 🖤 [ᴇxᴘᴏʀᴛ_ɢᴀʙʙᴀʀ🥀](https://telegram.me/export_gabbar)||"""
+||ᴍᴀᴅᴇ 🖤 ʙʏ [ᴇxᴘᴏʀᴛ_ɢᴀʙʙᴀʀ🥀](https://telegram.me/export_gabbar)||"""
 
 ABOUT_TEXT = """--**ᴀʙᴏᴜᴛ ᴍᴇ**--😁
 
