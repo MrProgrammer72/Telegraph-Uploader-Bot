@@ -67,7 +67,7 @@ ABOUT_TEXT = """--**ᴀʙᴏᴜᴛ ᴍᴇ**--😁
 
 📢 **ᴄʜᴀɴɴᴀʟ :** [ꜱᴜᴘᴘᴏʀᴛ ᴄʜᴀɴɴᴇʟ](https://telegram.me/myworldGJ516)
 
-👥 **ɢʀᴏᴜᴘ :** [ꜱᴜᴘᴘᴏʀᴛ ɢʀᴏᴜᴘ](https://telegram.me/ADVENTURE_FAMILY)
+👥 **ɢʀᴏᴜᴘ :** [ꜱᴜᴘᴘᴏʀᴛ ɢʀᴏᴜᴘ](https://t.me/GJ516_DISCUSS_GROUP)
 
 🌐 **ꜱᴏᴜʀᴄᴇ :** [ᴄʟɪᴄᴋ ʜᴇʀᴇ](https://telegra.ph/file/9b0455dae14d5639f936d.mp4)
 
@@ -81,7 +81,7 @@ FORCE_SUBSCRIBE_TEXT = "<code>ꜱᴏʀʀʏ ᴅᴇᴀʀ ʏᴏᴜ ᴍᴜꜱᴛ ᴊ
 
 START_BUTTONS = InlineKeyboardMarkup(
         [[
-        InlineKeyboardButton('⚡ ᴍᴜꜱɪᴄ ʙᴏᴛ ⚡', url='https://t.me/GJ516_VCPLAYER_bot'),
+        InlineKeyboardButton('𝗚𝗝𝟱𝟭𝟲 𝗗𝗜𝗦𝗖𝗨𝗦𝗦 𝗚𝗥𝗢𝗨𝗣', url='https://t.me/GJ516_DISCUSS_GROUP'),
         ],[
         InlineKeyboardButton('ʜᴇʟᴘ ⚙', callback_data='help'),
         InlineKeyboardButton('ᴀʙᴏᴜᴛ 🔰', callback_data='about'),
@@ -91,7 +91,7 @@ START_BUTTONS = InlineKeyboardMarkup(
 
 HELP_BUTTONS = InlineKeyboardMarkup(
         [[
-        InlineKeyboardButton('💖 ᴍᴜꜱɪᴄ ʙᴏᴛ 💖', url='https://t.me/GJ516_VCPLAYER_bot'),
+        InlineKeyboardButton('𝗚𝗝𝟱𝟭𝟲 𝗗𝗜𝗦𝗖𝗨𝗦𝗦 𝗚𝗥𝗢𝗨𝗣',url='https://t.me/GJ516_DISCUSS_GROUP'),
         ],[
         InlineKeyboardButton('ʜᴏᴍᴇ 🏘', callback_data='home'),
         InlineKeyboardButton('ᴀʙᴏᴜᴛ 🔰', callback_data='about'),
@@ -101,7 +101,7 @@ HELP_BUTTONS = InlineKeyboardMarkup(
 
 ABOUT_BUTTONS = InlineKeyboardMarkup(
         [[
-        InlineKeyboardButton('🔥 ᴍᴜꜱɪᴄ ʙᴏᴛ 🔥', url='https://t.me/GJ516_VCPLAYER_bot'),
+        InlineKeyboardButton('𝗚𝗝𝟱𝟭𝟲 𝗗𝗜𝗦𝗖𝗨𝗦𝗦 𝗚𝗥𝗢𝗨𝗣', url='https://t.me/GJ516_DISCUSS_GROUP'),
         ],[
         InlineKeyboardButton('ʜᴏᴍᴇ 🏘', callback_data='home'),
         InlineKeyboardButton('ʜᴇʟᴘ ⚙', callback_data='help'),
@@ -243,10 +243,10 @@ async def telegraph_upload(bot, update):
                     InlineKeyboardButton(text="ꜱʜᴀʀᴇ ʟɪɴᴋ 🇮🇳", url=f"https://telegram.me/share/url?url=https://telegra.ph{response[0]}")
                 ],
                 [
-                    InlineKeyboardButton(text="⚙ ᴊᴏɪɴ ᴜᴘᴅᴀᴛᴇꜱ ɢʀᴏᴜᴘ ⚙", url="https://telegram.me/ADVENTURE_FAMILYS")
+                    InlineKeyboardButton(text="⚙ ᴊᴏɪɴ ᴜᴘᴅᴀᴛᴇꜱ ɢʀᴏᴜᴘ ⚙", url=f"https://t.me/GJ516_DISCUSS_GROUP")
                 ],
                 [
-                    InlineKeyboardButton('🤍 ᴍᴜꜱɪᴄ ʙᴏᴛ 🤍', url='https://t.me/GJ516_VCPLAYER_bot')
+                    InlineKeyboardButton(text="𝗚𝗝𝟱𝟭𝟲 𝗗𝗜𝗦𝗖𝗨𝗦𝗦 𝗚𝗥𝗢𝗨𝗣", url=f"https://t.me/GJ516_DISCUSS_GROUP")
                 ]
             ]
         )
